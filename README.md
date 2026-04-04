@@ -1,5 +1,52 @@
-#  About Me:
-<br><br>I’m currently working on<br>Building end-to-end Data Analysis & Machine Learning pipelines, exploring data visualization dashboards, and experimenting with real-world datasets using Python, Pandas, NumPy & Scikit-learn.<br><br>I’m looking to collaborate on<br><br>Open-source projects in Gen Ai & Machine Learning<br><br>Python-based automation tools<br><br>AI/ML research implementations & case studies<br><br>I’m looking for help with<br><br>Scaling ML models for production<br><br>Best practices in MLOps & deployment<br><br>Learning advanced Deep Learning frameworks (TensorFlow)<br><br>I’m currently learning<br><br>Machine Learning Algorithms (Regression, Classification, Clustering)<br><br>Feature Engineering & Model Optimization<br><br>Exploring SQL for data querying and Cloud platforms (AWS/GCP) for ML deployment<br><br>Ask me about<br><br>Python for Data Science<br><br>Data Cleaning, Preprocessing & Wrangling (Pandas, NumPy)<br><br>EDA (Exploratory Data Analysis) & Visualization (Matplotlib, Seaborn, Plotly)<br><br>My journey transitioning into Machine Learning<br><br>Fun fact<br>I believe “A messy dataset teaches more than a clean one” — and I enjoy turning data chaos into insights.
+##  About Me
+
+I am an **AI & Machine Learning Developer** with hands-on experience in building **end-to-end intelligent systems**, including projects in **Computer Vision, NLP, and Deep Learning**.
+
+I have developed multiple real-world projects involving **object detection & tracking, NLP-based systems, classification models, and AI-powered applications**, focusing on both **accuracy and real-time performance**.
+
+My work is centered around turning complex problems into scalable AI solutions using modern tools and frameworks. I actively build and experiment with **deep learning models, data pipelines, and production-oriented systems.**
+
+---
+
+##  Core Expertise
+
+* **Computer Vision:** Object Detection, Tracking (YOLO, OpenCV)
+* **Natural Language Processing (NLP):** Text processing, classification, chatbot systems
+* **Machine Learning:** Regression, Classification, Clustering etc 
+* **Deep Learning:** Neural Networks, real-world model implementation
+* **End-to-End ML Systems:** Data → Model → Deployment-ready pipelines
+
+---
+
+##  Tech Stack
+
+**Languages:** Python, SQL
+**Libraries & Frameworks:**
+Pandas, NumPy, Matplotlib, seaborn, Scikit-learn, OpenCV, TensorFlow (learning & applying)
+
+**Special Focus:**
+
+* Real-time AI systems
+* Model optimization & performance tuning
+* Practical, production-level implementations
+
+---
+
+##  What I’m Currently Working On
+
+* Advanced **Deep Learning models & architectures**
+* **MLOps & deployment strategies**
+* Building scalable AI systems using **cloud platforms (AWS/GCP)**
+
+---
+
+##  Open to Collaborate On
+
+* Advanced **AI/ML & Deep Learning projects**
+* Computer Vision & NLP-based systems
+* Open-source contributions with real-world impact
+
+---
 
 
 ##  Socials:
