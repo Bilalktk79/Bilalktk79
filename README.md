@@ -10,7 +10,7 @@ My work is centered around turning complex problems into scalable AI solutions u
 
 ##  Core Expertise
 
-* **Computer Vision:** Object Detection, Tracking (YOLO, OpenCV)
+* **Computer Vision:** Object Detection, Tracking (YOLO, OpenCV , VLM and Foundation Models)
 * **Natural Language Processing (NLP):** Text processing, classification, chatbot systems
 * **Machine Learning:** Regression, Classification, Clustering etc 
 * **Deep Learning:** Neural Networks, real-world model implementation
